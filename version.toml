@@ -1,0 +1,8 @@
+version = "0.1.0"
+
+[[targets]]
+file = "Cargo.toml"
+key = "package.version"
+
+[git]
+tag_prefix = "v"
